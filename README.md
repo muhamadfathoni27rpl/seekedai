@@ -43,3 +43,4 @@ untuk Login : admin@web.service
 1. Admin Monitoring Pemantauan Transaksi
 2. Admin Resto/Warung Berhak Blok User
 3. User Favorit Makanan / Resto
+4. Report
