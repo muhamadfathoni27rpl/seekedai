@@ -1,8 +1,11 @@
 *Aplikasi Seekedai*
 - 
 develop By : Muhamad Fathoni
+-
 Front-End  : Harry merlien
+-
 Databases  : Rafi Azizi
+-
 SMK TELKOM MALANG
 --------------------------------------------------------------------------|
 Fitur :
